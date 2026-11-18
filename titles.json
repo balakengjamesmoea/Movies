@@ -1,0 +1,134 @@
+[
+  {
+    "id": 1,
+    "title": "Mountain Kingdom",
+    "genre": "Documentary",
+    "type": "Documentary",
+    "year": 2025,
+    "duration": "42 min",
+    "description": "A journey through Lesotho's highlands, villages and mountain landscapes.",
+    "poster": "https://images.unsplash.com/photo-1464822759023-fed622ff2c3b?w=700",
+    "trailer": "https://www.youtube.com/watch?v=aqz-KE-bpKQ"
+  },
+  {
+    "id": 2,
+    "title": "The Last Shepherd",
+    "genre": "Drama",
+    "type": "Film",
+    "year": 2024,
+    "duration": "1h 38min",
+    "description": "A young shepherd faces difficult choices while protecting his family's land.",
+    "poster": "https://images.unsplash.com/photo-1500530855697-b586d89ba3ee?w=700",
+    "trailer": "https://www.youtube.com/watch?v=aqz-KE-bpKQ"
+  },
+  {
+    "id": 3,
+    "title": "Code Your Future",
+    "genre": "Education",
+    "type": "Educational",
+    "year": 2025,
+    "duration": "28 min",
+    "description": "An introduction to digital skills, problem solving and building your first website.",
+    "poster": "https://images.unsplash.com/photo-1516321318423-f06f85e504b3?w=700",
+    "trailer": "https://www.youtube.com/watch?v=aqz-KE-bpKQ"
+  },
+  {
+    "id": 4,
+    "title": "City Lights",
+    "genre": "Drama",
+    "type": "Series",
+    "year": 2023,
+    "duration": "6 episodes",
+    "description": "Friends navigate work, family and ambition in a changing city.",
+    "poster": "https://images.unsplash.com/photo-1519608487953-e999c86e7455?w=700",
+    "trailer": "https://www.youtube.com/watch?v=aqz-KE-bpKQ"
+  },
+  {
+    "id": 5,
+    "title": "Wild Africa",
+    "genre": "Documentary",
+    "type": "Documentary",
+    "year": 2024,
+    "duration": "51 min",
+    "description": "Explore wildlife, conservation and the natural world across the region.",
+    "poster": "https://images.unsplash.com/photo-1516026672322-bc52d61a55d5?w=700",
+    "trailer": "https://www.youtube.com/watch?v=aqz-KE-bpKQ"
+  },
+  {
+    "id": 6,
+    "title": "The Startup",
+    "genre": "Education",
+    "type": "Educational",
+    "year": 2025,
+    "duration": "35 min",
+    "description": "Learn how young entrepreneurs turn ideas into practical businesses.",
+    "poster": "https://images.unsplash.com/photo-1556761175-b413da4baf72?w=700",
+    "trailer": "https://www.youtube.com/watch?v=aqz-KE-bpKQ"
+  },
+  {
+    "id": 7,
+    "title": "Beyond the River",
+    "genre": "Adventure",
+    "type": "Film",
+    "year": 2022,
+    "duration": "1h 45min",
+    "description": "An adventurous journey tests courage, teamwork and determination.",
+    "poster": "https://images.unsplash.com/photo-1470770841072-f978cf4d019e?w=700",
+    "trailer": "https://www.youtube.com/watch?v=aqz-KE-bpKQ"
+  },
+  {
+    "id": 8,
+    "title": "Learning Together",
+    "genre": "Education",
+    "type": "Educational",
+    "year": 2024,
+    "duration": "22 min",
+    "description": "Practical study techniques for learners and teachers.",
+    "poster": "https://images.unsplash.com/photo-1509062522246-3755977927d7?w=700",
+    "trailer": "https://www.youtube.com/watch?v=aqz-KE-bpKQ"
+  },
+  {
+    "id": 9,
+    "title": "Our Heritage",
+    "genre": "Documentary",
+    "type": "Documentary",
+    "year": 2023,
+    "duration": "46 min",
+    "description": "Stories celebrating culture, heritage and community traditions.",
+    "poster": "https://images.unsplash.com/photo-1518837695005-2083093ee35b?w=700",
+    "trailer": "https://www.youtube.com/watch?v=aqz-KE-bpKQ"
+  },
+  {
+    "id": 10,
+    "title": "One More Chance",
+    "genre": "Drama",
+    "type": "Film",
+    "year": 2025,
+    "duration": "1h 29min",
+    "description": "A story about second chances, friendship and believing in yourself.",
+    "poster": "https://images.unsplash.com/photo-1485846234645-a62644f84728?w=700",
+    "trailer": "https://www.youtube.com/watch?v=aqz-KE-bpKQ"
+  },
+  {
+    "id": 11,
+    "title": "Digital Lesotho",
+    "genre": "Education",
+    "type": "Documentary",
+    "year": 2025,
+    "duration": "31 min",
+    "description": "How digital services can support education, health and business in Lesotho.",
+    "poster": "https://images.unsplash.com/photo-1498050108023-c5249f4df085?w=700",
+    "trailer": "https://www.youtube.com/watch?v=aqz-KE-bpKQ"
+  },
+  {
+    "id": 12,
+    "title": "Highland Adventure",
+    "genre": "Adventure",
+    "type": "Series",
+    "year": 2024,
+    "duration": "4 episodes",
+    "description": "Discover breathtaking highland routes and outdoor adventures.",
+    "poster": "https://images.unsplash.com/photo-1500534623283-312aade485b7?w=700",
+    "trailer": "https://www.youtube.com/watch?v=aqz-KE-bpKQ"
+  }
+]
